@@ -33,7 +33,17 @@ http://localhost:3000
 - Includes Professional Experience
 - Includes Leadership & Extracurricular Activities
 - Includes Skills, Certifications, and Interests
+- Interactive show/hide buttons for each major resume section using React state.
 
-## Known Issues
 
-None at this time.
+## Technologies Used
+
+- Next.js
+- React
+- JavaScript
+- Tailwind CSS
+
+
+## What I learned
+- Learned how to build a website using Next.js.
+- Learned how to use React state to make a webpage interactive.
